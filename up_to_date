@@ -1,9 +1,1 @@
-mkdir 0x01-git
-touch README.md up_to_date
-cd 0x01-git
-mkdir bash c js
-git config --global user.email abdelrahmanamr_egypt@gmail.com
-git config --global user.name abdelrahman-amrsobh
-git add .
-git commit -m ''
-git push
+touch up_to_date
